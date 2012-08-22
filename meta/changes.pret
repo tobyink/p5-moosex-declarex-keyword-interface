@@ -4,3 +4,8 @@
 	issued  2012-08-22;
 	label   "Initial release".
 
+`MooseX-DeclareX-Keyword-interface 0.002 cpan:TOBYINK`
+	issued  2012-08-22;
+	changeset [
+		item [ a dcs:Packaging, dcs:Bugfix; rdfs:label "Fix distribution description." ];
+	].
