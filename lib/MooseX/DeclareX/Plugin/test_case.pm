@@ -2,7 +2,7 @@ package MooseX::DeclareX::Plugin::test_case;
 
 BEGIN {
 	$MooseX::DeclareX::Plugin::test_case::AUTHORITY = 'cpan:TOBYINK';
-	$MooseX::DeclareX::Plugin::test_case::VERSION   = '0.002';
+	$MooseX::DeclareX::Plugin::test_case::VERSION   = '0.003';
 }
 
 use Moose;
@@ -38,7 +38,7 @@ package MooseX::DeclareX::Plugin::test_case::MethodModifier;
 
 BEGIN {
 	$MooseX::DeclareX::Plugin::test_case::MethodModifier::AUTHORITY = 'cpan:TOBYINK';
-	$MooseX::DeclareX::Plugin::test_case::MethodModifier::VERSION   = '0.002';
+	$MooseX::DeclareX::Plugin::test_case::MethodModifier::VERSION   = '0.003';
 }
 
 use Moose;

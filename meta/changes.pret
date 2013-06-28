@@ -9,3 +9,6 @@
 	changeset [
 		item [ a dcs:Packaging, dcs:Bugfix; rdfs:label "Fix distribution description." ];
 	].
+
+`MooseX-DeclareX-Keyword-interface 0.003 cpan:TOBYINK`
+	issued  2013-06-28.
