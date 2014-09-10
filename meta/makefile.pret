@@ -1,0 +1,7 @@
+@prefix deps:  <http://ontologi.es/doap-deps#> .
+
+<http://purl.org/NET/cpan-uri/dist/MooseX-DeclareX-Keyword-interface/project>
+	deps:runtime-requirement         [ deps:on "MooseX::Interface 0.002"^^deps:CpanId ];
+	deps:runtime-requirement         [ deps:on "MooseX::DeclareX 0.002"^^deps:CpanId ];
+	deps:test-requirement            [ deps:on "Test::More 0.61"^^deps:CpanId ].
+
