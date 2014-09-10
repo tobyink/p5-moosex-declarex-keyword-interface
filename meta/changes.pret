@@ -12,3 +12,10 @@
 
 `MooseX-DeclareX-Keyword-interface 0.003 cpan:TOBYINK`
 	issued  2013-06-28.
+
+`MooseX-DeclareX-Keyword-interface 0.004 cpan:TOBYINK`
+	issued    2014-09-10;
+	changeset [
+		item "Switch to Dist::Inkt."^^Packaging;
+	].
+

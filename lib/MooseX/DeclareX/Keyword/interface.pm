@@ -8,7 +8,7 @@ package MooseX::DeclareX::Keyword::interface;
 
 BEGIN {
 	$MooseX::DeclareX::Keyword::interface::AUTHORITY = 'cpan:TOBYINK';
-	$MooseX::DeclareX::Keyword::interface::VERSION   = '0.003';
+	$MooseX::DeclareX::Keyword::interface::VERSION   = '0.004';
 }
 
 require MooseX::Declare;
